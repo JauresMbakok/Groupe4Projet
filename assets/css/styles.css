@@ -1,0 +1,21 @@
+.btn-rounded{
+border-radius: 50%;
+}
+
+.form-group{
+    margin-bottom: 25px;
+}
+
+.pull-right,.float-right{
+  float: right !important;
+}
+
+.pull-left,.float-left{
+    float: left !important;
+  }
+
+
+  #typeform::after{
+      content: " ";
+      background-color: black;
+  }
